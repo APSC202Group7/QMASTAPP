@@ -1,4 +1,4 @@
-package com.example.jake.qmast;
+package com.qmast.group7.app;
 
 import org.junit.Test;
 

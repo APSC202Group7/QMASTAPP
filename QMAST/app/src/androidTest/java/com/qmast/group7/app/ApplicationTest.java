@@ -1,4 +1,4 @@
-package com.example.jake.qmast;
+package com.qmast.group7.app;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
